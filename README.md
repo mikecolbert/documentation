@@ -86,7 +86,9 @@ Create an alert using a blockquote:
 Creates this:
 > **WARNING**: This is a warning message! Be careful!
 
-Or using HTML
-<div class="alert" style="border:1px, solid, red">
+
+
+Or using HTML:
+<div style="  padding: 20px; background-color: #f44336; /* Red */ color: white; margin-bottom: 15px;">
   <strong>Warning!</strong> This is a warning alert.
 </div>
