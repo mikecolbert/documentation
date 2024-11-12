@@ -60,7 +60,7 @@ Here are the commonly used tree symbols you can copy:
 These have the best appearance when used as a monospaced font. To get a monospaced font in Markdown, insert the documentation block in a code fence (three backticks).  
   
 ```text
-\`\`\`
+\```
 Project-Root/
 ├── README.md
 ├── pyproject.toml
@@ -74,7 +74,7 @@ Project-Root/
 │   ├── test_main.py
 │   └── test_utils.py
 └── requirements.txt
-\`\`\`
+\```
 ```
 
 
