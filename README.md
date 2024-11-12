@@ -87,6 +87,6 @@ Creates this:
 > **WARNING**: This is a warning message! Be careful!
 
 Or using HTML
-<div class="alert">
+<div class="alert" style="border:1px, solid, red">
   <strong>Warning!</strong> This is a warning alert.
 </div>
