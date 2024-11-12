@@ -78,8 +78,15 @@ Project-Root/
 ```
 
 
-## Including alert boxes
+## Including alerts
+Create an alert using a blockquote:
+```
+> **WARNING**: This is a warning message! Be careful!
+```
+Creates this:
+> **WARNING**: This is a warning message! Be careful!
 
-
-
-
+Or using HTML
+<div class="alert">
+  <strong>Warning!</strong> This is a warning alert.
+</div>
