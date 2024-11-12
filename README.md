@@ -88,8 +88,19 @@ Creates this:
 
 
 
-Or using HTML:
-<div style="color:green">
-     padding="20px" background-color="#f44336" color="white" margin-bottom="15px"  <br>
-  <strong>Warning!</strong> This is a warning alert.
-</div>
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+
+| :exclamation:  This is very important   |
+|-----------------------------------------|
+
+
+| :zap:        Ignore at your own risk!   |
+|-----------------------------------------|
