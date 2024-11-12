@@ -89,6 +89,6 @@ Creates this:
 
 
 Or using HTML:
-<div style="  padding: 20px; background-color: #f44336; /* Red */ color: white; margin-bottom: 15px;">
+<div padding="20px" background-color="#f44336" color="white" margin-bottom="15px">
   <strong>Warning!</strong> This is a warning alert.
 </div>
