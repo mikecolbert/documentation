@@ -14,6 +14,7 @@
 Adapted from https://github.com/jamessizeland/python-analytics-template
 
 ```text
+
 Project Root (Repository name)
     │
     ├── README.md          <- The top-level README for developers using this project.
@@ -43,7 +44,7 @@ Project Root (Repository name)
     ├── .pre-commit-config.yaml    <- Source code for use in this project.
     │
     └── .gitignore         <- The Python requirements and development experience configuration file
-    
+
 ```
 
 **Notes:** 
@@ -59,7 +60,7 @@ Here are the commonly used tree symbols you can copy:
 These have the best appearance when used as a monospaced font. To get a monospaced font in Markdown, insert the documentation block in a code fence (three backticks).  
   
 ```text
-```
+\`\`\`
 Project-Root/
 ├── README.md
 ├── pyproject.toml
@@ -73,7 +74,7 @@ Project-Root/
 │   ├── test_main.py
 │   └── test_utils.py
 └── requirements.txt
-```
+\`\`\`
 ```
 
 
